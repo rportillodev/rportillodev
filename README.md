@@ -2,27 +2,9 @@
 
 **Software Developer | QA Automation | Workflow Automation | Technical Support Systems**
 
-I build practical software tools focused on automation, testing, support operations, business workflows, and data-driven process improvement.
+I build practical software tools focused on automation, testing, support operations, business workflows, and data driven process improvement.
 
-My background combines technical support, SaaS-style tools, CRM workflows, client coordination, documentation, and operational process improvement. I use that experience to design software that solves real business problems instead of only demonstrating isolated coding concepts.
-
----
-
-## Core Focus
-
-I work on projects related to:
-
-* QA automation
-* Workflow automation
-* Support operations tools
-* Ticket and case management systems
-* Business dashboards
-* SQL-based reporting
-* Python automation
-* Web applications with JavaScript
-* Internal tools for operational teams
-
-My focus is building reliable tools that help teams reduce manual work, improve visibility, and make better decisions from structured data.
+My background combines technical support, SaaS style tools, CRM workflows, client coordination, documentation, and operational process improvement. I use that experience to design software that solves real business problems instead of only demonstrating isolated coding concepts.
 
 ---
 
@@ -45,7 +27,22 @@ My focus is building reliable tools that help teams reduce manual work, improve 
 ![QA Automation](https://img.shields.io/badge/QA-Automation-red)
 
 ---
+## Portfolio
 
+Portfolio website:
+
+**https://rportillodev.github.io**
+
+---
+
+## Contact
+
+* GitHub: [github.com/rportillodev](https://github.com/rportillodev)
+* Portfolio: [rportillodev.github.io](https://rportillodev.github.io)
+* LinkedIn: [Rudy Portillo](https://www.linkedin.com/in/rudy-portillo-34a690152/)
+* Email: rudy.careers@pm.me
+
+---
 
 
 ## Professional Background
@@ -78,23 +75,10 @@ I am focused on strengthening and applying:
 * Technical documentation
 * Business workflow systems
 
----
-
-## Portfolio
-
-Portfolio website:
-
-**https://rportillodev.github.io**
+My focus is building reliable tools that help teams reduce manual work, improve visibility, and make better decisions from structured data.
 
 ---
 
-## Contact
 
-* GitHub: [github.com/rportillodev](https://github.com/rportillodev)
-* Portfolio: [rportillodev.github.io](https://rportillodev.github.io)
-* LinkedIn: [Rudy Portillo](https://www.linkedin.com/in/rudy-portillo-34a690152/)
-* Email: rudy.careers@pm.me
-
----
 
 
